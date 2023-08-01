@@ -28,20 +28,12 @@
 
 <div align="center">
 
-<img alt="Preview" src="thumb.png" /> 
+<img alt="Preview" src="./.github/preview.png" /> 
 </div>
-<p align="center">
-  <a href="#-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-license">License</a>
-</p>
 
-## 👨🏻‍💻 About the project
+## 👨🏻‍💻 About Project Layout
 
-- <p style="color: red;">Layout of App to save and manage your links with notes
-  </p>
+[Figma link](<https://www.figma.com/file/FNn5vXTQ4NUenaDBUuYqNr/RocketNotes-(Copy)?node-id=0%3A1&mode=dev>)
 
 ## 🚀 Technologies
 
@@ -60,7 +52,7 @@ Technologies that I used to develop this web client
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/wenblack/rocketNotes2.git && cd rocketNotes2
+$ git clone https://github.com/arks-lacerda/rocketnotes.git && cd rocketnotes
 ```
 
 **Follow the steps below**
@@ -71,24 +63,6 @@ $ npm install
 
 # Start the client
 $ npm start
-```
-
-## 🤔 How to contribute
-
-**Make a fork of this repository**
-
-```bash
-# Fork using GitHub official command line
-# If you don't have the GitHub CLI, use the web site to do that.
-
-$ gh repo fork wenblack/rocketNotes2
-```
-
-**Follow the steps below**
-
-```bash
-# Clone your fork
-$ git clone your-fork-url && cd wenblack/rocketNotes2
 ```
 
 ## 📝 License
