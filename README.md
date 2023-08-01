@@ -5,23 +5,19 @@
 <p align="center">Application to save and manage your useful links</p>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/wenblack/rocketNotes2">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/arks-lacerda/rocketnotes">
 
   <a href="https://www.linkedin.com/in/arks-lacerda/">
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-Arthur%20Lacerda-gree">
   </a>
   
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/wenblack/rocketNotes2">
+  <img alt="Repository size" src="https://img.shields.io/github/languages/code-size/arks-lacerda/rocketnotes">
   
-  <a href="https://github.com/wenblack/rocketNotes2/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wenblack/rocketNotes2">
+  <a href="https://github.com/arks-lacerda/rocketnotes">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/arks-lacerda/rocketnotes">
   </a>
-  
-  <a href="https://github.com/wenblack/rocketNotes2/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/wenblack/rocketNotes2">
-  </a>
-  
-  <img alt="GitHub" src="https://img.shields.io/github/license/wenblack/rocketNotes2">
+
+  <img alt="GitHub" src="https://img.shields.io/github/license/arks-lacerda/rocketnotes">
 </p>
 
 ---
